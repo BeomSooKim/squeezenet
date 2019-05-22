@@ -1,1 +1,1 @@
-# squeezenet implementation on tiny-imagenet
+squeezenet implementation on tiny-imagenet
